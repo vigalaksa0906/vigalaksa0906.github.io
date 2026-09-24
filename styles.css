@@ -15,6 +15,7 @@
 
 html {
   scroll-behavior: smooth;
+  text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -680,11 +681,12 @@ a:focus-visible {
 
   .hero-aside {
     margin: 0 calc(-1 * clamp(24px, 5vw, 76px));
-    height: 580px;
   }
 
   .hero-aside img {
-    object-position: center 36%;
+    position: static;
+    display: block;
+    height: auto;
   }
 
   .aside-bottom {
