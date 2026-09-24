@@ -11,7 +11,6 @@ Personal portfolio of Viga Laksa Hardjanto, showcasing work in technology, resea
 | `script.js`                   | Navigation behavior           |
 | `viga-portrait.jpg`           | Profile photograph            |
 | `teaching-at-binus.jpg`       | Teaching photograph           |
-| `CV_Viga_Laksa_Hardjanto.pdf` | Downloadable CV               |
 
 ## Preview locally
 
